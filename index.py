@@ -25,3 +25,11 @@ print(f'Quantas unidades de Coxinha {coxinha}')
 print(f'Valor de Coxinhas: R${coxinhaPreco:.2f}')
 
 print(f'Você terá que separar R${refriPreco + coxinhaPreco:.2f} para o coffee')
+
+
+******* Exercicio 3 *******
+nome1, nome2 = input('qual seu nome completo? ').split()
+
+print(nome1)
+      
+print(nome2)
