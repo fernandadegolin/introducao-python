@@ -48,3 +48,8 @@ porcentagem_azul = azul / total_participantes * 100
 print(f"{porcentagem_rosa:.2f} % de pessoas preferem rosa.")
 print(f"{porcentagem_roxo:.2f} % de pessoas preferem roxo.")
 print(f"{porcentagem_azul} % de pessoas preferem azul.")
+
+Informe separado por virgulas quantas participantes por cor: 10, 20, 30
+16.67 % de pessoas preferem rosa.
+33.33 % de pessoas preferem roxo.
+50.0 % de pessoas preferem azul.
